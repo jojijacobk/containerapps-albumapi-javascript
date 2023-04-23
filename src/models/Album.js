@@ -2,7 +2,7 @@ const albums = [
   {
     id: 1,
     title: "You, Me and an App ID",
-    artist: "Daprize",
+    artist: "Joji",
     price: 56.99,
     image_url: "https://aka.ms/albums-daprlogo",
   },
